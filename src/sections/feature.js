@@ -39,7 +39,7 @@ export default function Feature() {
     <section sx={{ variant: 'section.feature' }} id="feature">
       <Container>
         <SectionHeader
-          title="Go Beyond unlimited features"
+          title="Wie funktioniert das?"
           description="Focus only on the meaning, we take care of the design. As soon as the meeting end you can export in one click into your preferred format."
         />
 
