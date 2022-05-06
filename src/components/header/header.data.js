@@ -1,18 +1,14 @@
 export default [
   {
     path: 'home',
-    label: 'Home',
+    label: 'Startseite',
   },
   {
     path: 'feature',
-    label: 'Features',
+    label: 'So funktioniert es',
   },
   {
     path: 'feedback',
-    label: 'Feedback',
-  },
-  {
-    path: 'support',
-    label: 'Support',
+    label: 'Kundenstimmen',
   },
 ];
