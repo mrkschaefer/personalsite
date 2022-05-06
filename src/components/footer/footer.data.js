@@ -35,10 +35,6 @@ export default [
       },
       {
         path: '/',
-        label: 'Terms & Conditions',
-      },
-      {
-        path: '/',
         label: 'Site Map',
       },
     ],
