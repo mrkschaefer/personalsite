@@ -26,6 +26,7 @@ export default function IndexPage() {
         <ClientFeedback />
         <WorkFlow />
         <Support />
+        <Testimonials />
       </Layout>
     </ThemeProvider>
   );
