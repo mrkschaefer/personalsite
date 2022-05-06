@@ -22,7 +22,7 @@ const data = [
     altText: 'Gift',
     title: 'Customer Gift vouchers',
     text:
-      'Our homes are designed to be move-in ready. Think furnished common areas, super fast wifi, and flexible leases.',
+      'Sind are designed to be move-in ready. Think furnished common areas, super fast wifi, and flexible leases.',
   },
   {
     id: 3,
