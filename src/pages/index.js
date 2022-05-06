@@ -9,7 +9,6 @@ import BusinessProfit from 'sections/business-profit';
 import Knowledge from 'sections/knowledge';
 import ClientFeedback from 'sections/client-feedback';
 import WorkFlow from 'sections/workflow';
-import Support from 'sections/support';
 
 export default function IndexPage() {
   return (
@@ -25,8 +24,6 @@ export default function IndexPage() {
         <Knowledge />
         <ClientFeedback />
         <WorkFlow />
-        <Support />
-        <Support />
       </Layout>
     </ThemeProvider>
   );
