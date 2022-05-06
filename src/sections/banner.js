@@ -42,16 +42,6 @@ export default function Banner() {
             Agenturen berechnen Ihnen schnell mal 2000€-3000 € für eine einfach Webseite - plus monatliche Kosten im Anschluss. Wir dagegen streichen die Startkosten komplett. Richtig gehört! Einfacher und fairer kommen Sie nicht an Ihre Webseite. 
           </Text>
           <Subscribe />
-          <Flex sx={styles.sponsorBox}>
-            <Text sx={styles.sponsorTitle}>Wir erstellen Ihre Webseite mit professioneller Software von</Text>
-            <Box sx={styles.sponsorBox.sponsor}>
-              {data.map((item, index) => (
-                <Link path={item.path} key={`client-key${index}`}>
-                  <Image src={item.image} alt={item.title} />
-                </Link>
-              ))}
-            </Box>
-          </Flex>
         </Box>
 
         <Box sx={styles.banner.imageBox}>
