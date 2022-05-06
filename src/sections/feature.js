@@ -40,7 +40,6 @@ export default function Feature() {
       <Container>
         <SectionHeader
           title="Wie funktioniert das?"
-          description="Focus only on the meaning, we take care of the design. As soon as the meeting end you can export in one click into your preferred format."
         />
 
         <Grid sx={styles.grid}>
