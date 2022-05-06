@@ -10,6 +10,7 @@ import Knowledge from 'sections/knowledge';
 import ClientFeedback from 'sections/client-feedback';
 import WorkFlow from 'sections/workflow';
 import Support from 'sections/support';
+import Testimonials from 'sections/testimonials';
 
 export default function IndexPage() {
   return (
