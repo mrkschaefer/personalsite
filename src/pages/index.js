@@ -10,7 +10,6 @@ import Knowledge from 'sections/knowledge';
 import ClientFeedback from 'sections/client-feedback';
 import WorkFlow from 'sections/workflow';
 import Support from 'sections/support';
-import SecurePayment from 'sections/secure-payment';
 
 export default function IndexPage() {
   return (
@@ -28,7 +27,6 @@ export default function IndexPage() {
         <WorkFlow />
         <Support />
         <Support />
-        <SecurePayment />
       </Layout>
     </ThemeProvider>
   );
