@@ -19,11 +19,11 @@ export default function IndexPage() {
           title="Startup Agency Creative Landing"
         />
         <Banner />
-        <Feature />
+        <WorkFlow />
         <BusinessProfit />
         <Knowledge />
         <ClientFeedback />
-        <WorkFlow />
+        <Feature />
       </Layout>
     </ThemeProvider>
   );
