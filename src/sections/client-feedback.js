@@ -11,8 +11,8 @@ export default function ClientFeedback() {
     <section sx={{ variant: 'section.feedback' }} id="feedback">
       <Container>
         <SectionHeader
-          title="Ihre Investition in Ihre Webseite: Nur 39€ pro Monat"
-          description=""
+          title="Ihre Investition: Nur 39€ pro Monat"
+          description="Wir sind uns sicher, dass dieser Preis im Vergleich zu anderen Agenturen fast unschlagbar ist. Wir setzten auf langfristige Kundenbeziehungen und möchten daher eine faire Geschäftsbeziehung aufbauen."
         />
       </Container>
     </section>
@@ -23,6 +23,7 @@ const styles = {
   thumbWrapper: {
     display: 'flex',
     justifyContent: 'center',
+    background: "#E5E4E2",
     px: 4,
     pb: [0, null, null, null, null, null, null, null, 6],
     img: {
