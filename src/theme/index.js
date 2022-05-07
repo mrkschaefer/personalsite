@@ -245,8 +245,8 @@ export default {
       transition: 'all 0.35s',
       fontSize: [0, '13px', null, null, 1],
       '&:hover': {
-        backgroundColor: 'primary',
-        color: 'white',
+        backgroundColor: 'white',
+        cursor: "auto"
       },
     },
     subscribeButton: {
