@@ -28,7 +28,7 @@ export default function CallToAction() {
 const styles = {
   wrapper: {
     position: 'relative',
-    padding: "30 0 0 0",
+    padding: "50 0 0 0 !important",
     zIndex: '10',
     top: -9,
     mb: -9,

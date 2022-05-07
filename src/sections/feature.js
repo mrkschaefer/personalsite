@@ -20,7 +20,7 @@ const data = [
     id: 2,
     imgSrc: Gift,
     altText: 'Gift',
-    title: 'Mi Ru Ko Japan Blog',
+    title: 'Japan Blog Miruko',
     text:
       'Ich hatte davor eine Angebot einer anderen Agentur und habe mir mal schnell eintausend Euro gespart.',
   },
