@@ -14,7 +14,7 @@ const data = [
     altText: 'Marketplace',
     title: 'Hoffmann Treppenbau',
     text:
-      'Unkomplizierter Ablauf ohne viel Fachchinesisch, kann ich daher nur weitermempfehlen. Einfacher geht kaum.',
+      'Unkomplizierter Ablauf ohne viel Fachchinesisch, kann ich daher mit gutem Gewissen weiterempfehlen.',
   },
   {
     id: 2,
@@ -22,13 +22,13 @@ const data = [
     altText: 'Gift',
     title: 'Japan Blog Miruko',
     text:
-      'Ich hatte davor eine Angebot einer anderen Agentur und habe mir mal schnell eintausend Euro gespart.',
+      'Finde es super, keine großen Kosten am Anfang zu haben wie bei anderen Anbietern.',
   },
   {
     id: 3,
     imgSrc: Award,
     altText: 'Awards',
-    title: 'Multiple Awards wins',
+    title: 'Coaching Studio Ahrens',
     text:
       'Der Preis ist mehr als gerecht und mit unserer neuen Seite sind wie super zufrieden - sieht sehr schön aus.',
   },
