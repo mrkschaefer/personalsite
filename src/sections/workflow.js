@@ -6,21 +6,21 @@ import SectionHeader from 'components/section-header';
 const data = [
   {
     id: 1,
-    title: 'Connect with support',
+    title: 'Planung ohne Aufwand',
     text:
-      'Our homes are designed to be move-in ready. Think furnished common areas, super fast wifi, and flexible leases.',
+      'Sie schicken uns einfach einige Informationen über Angebot, Geschichte und den Service Ihres Unternehmen, sowie die Kontaktdaten',
   },
   {
     id: 2,
-    title: 'Explain you business idea',
+    title: 'Kostenlose Erstellung',
     text:
-      'Our homes are designed to be move-in ready. Think furnished common areas, super fast wifi, and flexible leases.',
+      'Wir erstellen Ihre professionelle Webseite KOSTENLOS - eine attraktive "Online-Visitenkarte" für Ihr Unternehmen."',
   },
   {
     id: 3,
-    title: 'Be partner & earn money',
+    title: 'Langfristige Zusammenarbeit',
     text:
-      'Our homes are designed to be move-in ready. Think furnished common areas, super fast wifi, and flexible leases.',
+      'Wir sorgen dafür, dass Ihre Webseite zuverlässig läuft. Dafür verlangen wir eine faire, monatliche Gebühr. Keine versteckten Extra-Kosten!',
   },
 ];
 
@@ -29,8 +29,7 @@ export default function WorkFlow() {
     <section sx={{ variant: 'section.workflow' }}>
       <Container>
         <SectionHeader
-          title="Let’s meet how its work"
-          description="Focus only on the meaning, we take care of the design. As soon as the meeting end you can export in one click into your preferred format."
+          title="So funktioniert es"
         />
 
         <Grid sx={styles.grid}>

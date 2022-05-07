@@ -12,17 +12,17 @@ const data = [
     id: 1,
     imgSrc: Marketplace,
     altText: 'Marketplace',
-    title: 'Trusted marketplace',
+    title: 'Hoffmann Treppenbau',
     text:
-      'Our homes are designed to be move-in ready. Think furnished common areas, super fast wifi, and flexible leases.',
+      'Unkomplizierter Ablauf ohne viel Fachchinesisch, kann ich daher nur weitermempfehlen. Einfacher geht kaum.',
   },
   {
     id: 2,
     imgSrc: Gift,
     altText: 'Gift',
-    title: 'Customer Gift vouchers',
+    title: 'Mi Ru Ko Japan Blog',
     text:
-      'Sind are designed to be move-in ready. Think furnished common areas, super fast wifi, and flexible leases.',
+      '5 von 5 Sternen, ich hatte davor eine Angebot einer anderen Agentur und habe mir mal schnell eintausend Euro gespart.',
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const data = [
     altText: 'Awards',
     title: 'Multiple Awards wins',
     text:
-      'Our homes are designed to be move-in ready. Think furnished common areas, super fast wifi, and flexible leases.',
+      'Der Preis ist mehr als gerecht und mit unserer neuen Seite sind wie super zufrieden - sieht sehr schön aus.',
   },
 ];
 
