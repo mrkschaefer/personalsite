@@ -8,7 +8,7 @@ const data = [
     id: 1,
     title: 'Planung ohne Aufwand',
     text:
-      'Sie schicken uns einfach einige Informationen über Angebot, Geschichte und den Service Ihres Unternehmen, sowie die Kontaktdaten',
+      'Sie schicken uns einfach einige Informationen über Angebot, Geschichte und den Service Ihres Unternehmen, sowie die Kontaktdaten zu.',
   },
   {
     id: 2,

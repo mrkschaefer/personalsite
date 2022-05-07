@@ -6,9 +6,9 @@ import Image from 'components/image';
 import KnowledgeThumb from 'assets/images/knowledge-thumb.png';
 
 const data = {
-  title: 'we are committed to using fact-based knowledge to our customers',
+  title: 'Optimiert für Smartphone, Tablet und PC',
   description:
-    'Get your tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever. Get your tests delivered at let home collect sample.',
+    'Selbstverständlich gestalten wir Ihre Online-Präsenz so, dass sie auf allen Geräten modern und attraktiv wirkt. Es gibt schließliche keine zweite Chance für den ersten Eindruck.',
   btnName: 'Explore Details',
   btnURL: '#',
 };

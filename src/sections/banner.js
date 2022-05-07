@@ -39,7 +39,7 @@ export default function Banner() {
             Ihre einfache Webseite ohne Startkosten.
           </Heading>
           <Text as="p" variant="heroSecondary">
-            Agenturen berechnen Ihnen schnell mal 2000€-3000 € für eine einfach Webseite - plus monatliche Kosten im Anschluss. Wir dagegen streichen die Startkosten komplett. Richtig gehört! Einfacher und fairer kommen Sie nicht an Ihre Webseite. 
+            Agenturen berechnen Ihnen schnell mal 2000 € für eine einfach Webseite - plus monatliche Kosten im Anschluss. Wir dagegen streichen die Startkosten komplett. Richtig gehört! Einfacher und fairer kommen Sie nicht an Ihre Webseite. 
           </Text>
         </Box>
 

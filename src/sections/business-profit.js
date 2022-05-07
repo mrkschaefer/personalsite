@@ -12,8 +12,6 @@ const data = {
     'Optimiert für Smartphone, Computer und Tablet',
   description:
     'Ihre Webseite sieht auf allen Geräten s',
-  btnName: 'Explore Details',
-  btnURL: '#',
   points: [
     {
       icon: <IoIosCheckmarkCircle />,
