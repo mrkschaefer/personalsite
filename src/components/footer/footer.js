@@ -16,6 +16,7 @@ export default function Footer() {
             <Box className="footer__logo">
               <Logo src={FooterLogo} />
             </Box>
+            <br />
             <Text as="p" sx={styles.copyrightArea.copyright}>
               Copyright by 2021 Schaefer Webdesign
             </Text>
