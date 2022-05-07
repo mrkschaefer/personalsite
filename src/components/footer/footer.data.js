@@ -8,6 +8,10 @@ export default [
         path: '/',
         label: 'Datenschutz und Impressum',
       },
+      {
+        path: '/',
+        label: 'Copyright 2022 Schaefer Webdesign',
+      },
     ],
   },
 ];

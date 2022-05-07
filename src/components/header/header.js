@@ -38,7 +38,7 @@ export default function Header({ className }) {
             variant="secondary"
             aria-label="Get Started"
           >
-            Kontakt
+            info@schaefer-webdesign.de
           </Button>
 
           <MobileDrawer />
