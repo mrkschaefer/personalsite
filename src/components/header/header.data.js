@@ -1,13 +1,10 @@
 export default [
   {
-    label: 'SCHAEFER WEBDESIGN |  ',
-  },
-  {
     path: 'home',
-    label: 'Startseite',
+    label: 'SCHAEFER WEBDESIGN',
   },
   {
-    path: 'workflow',
+    path: 'WorkFlow',
     label: 'So funktioniert es',
   },
   {
