@@ -35,6 +35,7 @@ const styles = {
   },
   container: {
     px: [0, '0 !important', '30px !important'],
+    padding: "50 0 0 0 !important",
   },
   contentBox: {
     padding: ['55px 30px 60px', null, null, '55px 30px 60px', '55px 50px 60px'],
