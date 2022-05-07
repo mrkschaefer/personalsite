@@ -22,7 +22,7 @@ const data = [
     altText: 'Gift',
     title: 'Mi Ru Ko Japan Blog',
     text:
-      '5 von 5 Sternen, ich hatte davor eine Angebot einer anderen Agentur und habe mir mal schnell eintausend Euro gespart.',
+      'Ich hatte davor eine Angebot einer anderen Agentur und habe mir mal schnell eintausend Euro gespart.',
   },
   {
     id: 3,

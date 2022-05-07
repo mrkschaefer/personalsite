@@ -6,11 +6,9 @@ import Image from 'components/image';
 import KnowledgeThumb from 'assets/images/knowledge-thumb.png';
 
 const data = {
-  title: 'Optimiert für Smartphone, Tablet und PC',
+  title: 'Optimiert für Smartphone, Computer und Tablet',
   description:
     'Selbstverständlich gestalten wir Ihre Online-Präsenz so, dass sie auf allen Geräten modern und attraktiv wirkt. Es gibt schließliche keine zweite Chance für den ersten Eindruck.',
-  btnName: 'Explore Details',
-  btnURL: '#',
 };
 
 export default function Knowledge() {

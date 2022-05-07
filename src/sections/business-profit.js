@@ -9,13 +9,21 @@ import DrawingArrow from 'assets/drawing-arrow.svg';
 
 const data = {
   title:
-    'Optimiert für Smartphone, Computer und Tablet',
+    'Was ist im Angebot enthalten?',
   description:
-    'Ihre Webseite sieht auf allen Geräten s',
+    'Einfach gesagt: Alles was Sie für Ihre simple Webpräsenz brauchen.',
   points: [
     {
       icon: <IoIosCheckmarkCircle />,
       text: 'Unlimited design possibility',
+    },
+    {
+      icon: <IoIosCheckmarkCircle />,
+      text: 'Completely responsive features',
+    },
+    {
+      icon: <IoIosCheckmarkCircle />,
+      text: 'Completely responsive features',
     },
     {
       icon: <IoIosCheckmarkCircle />,
