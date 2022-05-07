@@ -8,27 +8,6 @@ export default [
         path: '/',
         label: 'Datenschutz und Impressum',
       },
-      {
-        path: '/',
-        label: 'Customer Support',
-      },
-      {
-        path: '/',
-        label: 'About Us',
-      },
-      {
-        path: '/',
-        label: 'Copyright',
-      },
-    ],
-  },
-  {
-    header: 'Kontakt',
-    items: [
-      {
-        path: '/',
-        label: 'info@xyz',
-      },
     ],
   },
 ];

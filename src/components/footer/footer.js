@@ -16,12 +16,8 @@ export default function Footer() {
             <Box className="footer__logo">
               <Logo src={FooterLogo} />
             </Box>
-            <nav className="footer__menu">
-              <Link path="/" label="Terms of use" />
-              <Link path="/" label="Privacy" />
-            </nav>
             <Text as="p" sx={styles.copyrightArea.copyright}>
-              Copyright by 2020 RedQ, Inc
+              Copyright by 2021 Schaefer Webdesign
             </Text>
           </Box>
           <Flex sx={styles.footer.menuArea}>

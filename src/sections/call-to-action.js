@@ -12,11 +12,11 @@ export default function CallToAction() {
       <Container sx={styles.container}>
         <Box sx={styles.contentBox}>
           <Heading sx={styles.heading}>
-            Do you have any question? Feel free to contact us
+            Fragen Sie unverbindlich an mit einer einfachen, kurzen E-Mail an:
           </Heading>
           <Box sx={styles.btnWrapper}>
             <Button variant="whiteButton" aria-label="Contact Us">
-              CONTACT US NOW
+              hallo@schafer-webdesign.de
             </Button>
           </Box>
         </Box>
