@@ -11,23 +11,27 @@ const data = {
   title:
     'Was ist im Angebot enthalten?',
   description:
-    'Einfach gesagt: Alles was Sie für Ihre simple Webpräsenz brauchen.',
+    'Kurz gesagt: Alles was Sie für Ihre simple Webpräsenz brauchen.',
   points: [
     {
       icon: <IoIosCheckmarkCircle />,
-      text: 'Unlimited design possibility',
+      text: 'Eine Seite (Onepager) mit allen gewünschten Informationen',
     },
     {
       icon: <IoIosCheckmarkCircle />,
-      text: 'Completely responsive features',
+      text: 'Bilder aus Online-Bildbibliotheken (oder natürlich ihre eiegenen Bilder)',
     },
     {
       icon: <IoIosCheckmarkCircle />,
-      text: 'Completely responsive features',
+      text: 'Domain (Die WWWW-Adresse) und Hosting (Server, auf dem die Seite läuft)',
     },
     {
       icon: <IoIosCheckmarkCircle />,
-      text: 'Completely responsive features',
+      text: 'Kleine Änderungen bei den Texten übernehmen wir jederzeit umsonst',
+    },
+    {
+      icon: <IoIosCheckmarkCircle />,
+      text: 'Kontaktformular und eine E-Mail-Adresse z.B. info@ihrfirmennamen.de',
     },
   ],
 };

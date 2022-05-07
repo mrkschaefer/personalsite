@@ -2,11 +2,11 @@ import { FaFacebook, FaTwitter, FaGithub, FaDribbble } from 'react-icons/fa';
 
 export default [
   {
-    header: 'About Us',
+    header: 'Mehr',
     items: [
       {
         path: '/',
-        label: 'Support Center',
+        label: 'Datenschutz und Impressum',
       },
       {
         path: '/',
@@ -23,69 +23,11 @@ export default [
     ],
   },
   {
-    header: 'Our Information',
+    header: 'Kontakt',
     items: [
       {
         path: '/',
-        label: 'Return Policy ',
-      },
-      {
-        path: '/',
-        label: 'Privacy Policy',
-      },
-      {
-        path: '/',
-        label: 'Site Map',
-      },
-    ],
-  },
-  {
-    header: 'My Account',
-    items: [
-      {
-        path: '/',
-        label: 'Press inquiries',
-      },
-      {
-        path: '/',
-        label: 'Social media ',
-      },
-      {
-        path: '/',
-        label: 'directories',
-      },
-      {
-        path: '/',
-        label: 'Images & B-roll',
-      },
-    ],
-  },
-  {
-    header: 'Contact',
-    items: [
-      {
-        path: '/',
-        label: 'Facebook',
-        name: 'facebook',
-        icon: <FaFacebook />,
-      },
-      {
-        path: '/',
-        label: 'Twitter',
-        name: 'twitter',
-        icon: <FaTwitter />,
-      },
-      {
-        path: '/',
-        label: 'Github',
-        name: 'github',
-        icon: <FaGithub />,
-      },
-      {
-        path: '/',
-        label: 'Dribbble',
-        name: 'dribbble',
-        icon: <FaDribbble />,
+        label: 'info@xyz',
       },
     ],
   },
